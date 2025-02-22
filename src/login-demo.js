@@ -68,7 +68,7 @@ const Home = () => {
 const App1 = () => {
   return (
       <Routes>
-        <Route path="/" element={<Login />} />
+        <Route path="/login-frontend" element={<Login />} />
         <Route path="/home" element={<Home />} />
       </Routes>
   );

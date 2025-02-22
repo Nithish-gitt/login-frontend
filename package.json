@@ -1,6 +1,7 @@
 {
   "name": "login-app",
   "version": "0.1.0",
+   "homepage": "https://Nithish-gitt.github.io/login-frontend",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -41,8 +42,8 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
+  }
   
-  "homepage": "https://Nithish-gitt.github.io/login-frontend"
+ 
 
 }
